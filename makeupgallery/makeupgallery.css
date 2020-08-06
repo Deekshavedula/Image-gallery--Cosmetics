@@ -1,0 +1,27 @@
+img{
+	width: 20%;
+	float: left;
+	margin: 6%;
+	border: 3px solid white;
+}
+ p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	font-weight: 300;
+	color: indigo;
+	margin-left: 6%;
+	border-bottom: 2px solid lightgrey;
+	border: 2px;    
+	width: 30%;
+}
+
+body{
+	background: url(https://i.pinimg.com/236x/2f/c2/5b/2fc25b9b0a0b12a1fe487c90125f5b62.jpg);
+	background-repeat: no-repeat;
+ 	background-size: cover;
+
+}
+footer{
+	text-align: center;
+	color: grey;
+}
